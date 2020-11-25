@@ -27,7 +27,7 @@ LATTE solicits short position papers that need not fit the mold of a traditional
 
 ### How to Participate
 
-The primary goal of the workshop is to enable discussion. It will accept **2-page papers** on a given topic.
+The primary goal of the workshop is to enable discussion. It will accept **2-page position papers**.
 Each talk will be a given a 25 minute time slot and will follow [SNAPL][]'s discussion format.
 Speakers will present for 17 minutes. 4 minutes will be reserved for "table discussion" where small breakout groups will discuss the paper and the remaining time will be used for Q&A.
 
@@ -39,6 +39,8 @@ Paper submission will is [via HotCRP][hotcrp].
 The accepted papers will not be published in a proceeding.
 
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
+[sigplanconf]: http://www.sigplan.org/Resources/Author/
+[hotcrp]: http://example.com/TK
 
 #### Discussion Topics
 
