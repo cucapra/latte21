@@ -22,21 +22,22 @@ LATTE solicits short position papers that need not fit the mold of a traditional
 - Essays advocating for or against a general approach
 - Retrospectives on past efforts on tools, languages, and techniques for accelerator design
 - Calls for solutions to open challenges in the area (questions without answers)
+- Demonstrations of real systems (to be shown off in a live demo at the workshop)
 
 **TODO**: I like the idea of reviewed talks from WAX. Steal it?
 
 ### How to Participate
 
 The primary goal of the workshop is to enable discussion. It will accept **2-page position papers**.
-Each talk will be a given a 25 minute time slot and will follow [SNAPL][]'s discussion format.
+The workshop will allocate short time slots to the papers, each paired with a discussion following [SNAPL][]'s discussion format.
 Speakers will present for 17 minutes. 4 minutes will be reserved for "table discussion" where small breakout groups will discuss the paper and the remaining time will be used for Q&A.
 
-The submitted papers will be discussed by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
+Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
 
 Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 
 Paper submission will is [via HotCRP][hotcrp].
-The accepted papers will not be published in a proceeding.
+The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
 
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
@@ -50,7 +51,7 @@ Please submit a sentence or two about an open problem, philosophical question, o
 
 Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
-[topics]: https://github.com/cucapra/wax2020/wiki/Discussion-Topics
+[topics]: https://github.com/cucapra/latte2020/wiki/Discussion-Topics
 
 ### Deadlines and Important Dates
 
