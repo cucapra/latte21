@@ -29,8 +29,8 @@ LATTE solicits short position papers that need not fit the mold of a traditional
 ### How to Participate
 
 The primary goal of the workshop is to enable discussion. It will accept **2-page position papers**.
-The workshop will allocate short time slots to the papers, each paired with a discussion following [SNAPL][]'s discussion format.
-Speakers will present for 17 minutes. 4 minutes will be reserved for "table discussion" where small breakout groups will discuss the paper and the remaining time will be used for Q&A.
+The workshop will allocate short time slots to the papers, each paired with a discussion following [SNAPL][]'s discussion format:
+"table discussion" where small breakout groups will discuss the paper, followed by plenary Q&A.
 
 Position paper submissions will undergo peer review by a program committee of interdisciplinary experts working on both high-level (languages, compilers, drivers) and low-level (circuit optimization, interconnect design) problems in the area.
 
