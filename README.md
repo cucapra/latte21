@@ -2,17 +2,26 @@
 
 ## Call for Participation
 
-LATTE is a workshop on building new tools and techniques to enable widespread use of hardware accelerators. Hardware acceleration is a key part of combating the decline of chip scaling. State-of-the-art processes for designing such accelerators, however, remains a specialized task requiring years of specialized training and large upfront costs. The goal of LATTE is to proliferate research that democratizes the process of accelerator design—instead of needing dozens of trained hardware engineers and months of upfront design, accelerators should be built by software engineers over a weekend. LATTE is a venue for discussion, debate, and brainstorming on all of these topics.
+LATTE is a workshop on applying programming languages and compilers techniques to generating hardware accelerators.
 
-Enabling rapid accelerator design requires innovation across the computing stack: languages, runtimes, compilers, drivers, virtualization techniques, interconnect design, verification,testing, etc. Because of this, this workshop will accept position papers from a wide variety of topics including, but not limited to:
+**Motivation.**
+Hardware acceleration is a key part of combating the stagnation of hardware performance scaling. Implementing them with state-of-the-art hardware design flows, such as traditional HDLs and current HLS tools, remains a specialized task requiring EE training, proprietary toolchains, and extremely slow compile-edit-run cycles. While traditional approaches *might* be appropriate for developing general-purpose CPUs that will ship millions of units, they are an impediment to popularizing acceleration for the "long tail" of applications that could benefit from special-purpose hardware. With new language designs and new techniques inspired by traditional compilers research, there is an opportunity to turn accelerator construction from a years-long enterprise into a weekend project.
+
+**Scope.**
+LATTE is a venue for discussion, debate, and brainstorming at the intersection of hardware acceleration and programming languages research. The focus is on new languages and tools that aim to let domain specialists, not just hardware experts, produce efficient accelerators. A full range of targets are in scope: ASICs (silicon), FPGAs, CGRAs, or future reconfigurable hardware. A wide variety of research topics are in scope including, but not limited to:
 
 - Domain-specific languages for accelerator design
 - Compilers for optimizing hardware designs
 - Verification and testing techniques
-- Experience reports on building large-scale accelerator generator systems
-- Position papers on designing the infrastructure and workflow for tools
-- Retrospectives on existing work on tools, languages, and techniques for accelerator design.
-- Call for solutions to open challenges in the area
+- Virtualization schemes for specialized & reconfigurable hardware
+
+LATTE solicits short position papers that need not fit the mold of a traditional publication:
+
+- Early, in-progress research snapshots
+- Experience reports on building or deploying accelerators and the tools involved
+- Essays advocating for or against a general approach
+- Retrospectives on past efforts on tools, languages, and techniques for accelerator design
+- Calls for solutions to open challenges in the area (questions without answers)
 
 **TODO**: I like the idea of reviewed talks from WAX. Steal it?
 
