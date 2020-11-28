@@ -12,7 +12,7 @@ LATTE is a venue for discussion, debate, and brainstorming at the intersection o
 
 - Domain-specific languages for accelerator design
 - Compilers for optimizing hardware designs
-- Verification and testing techniques
+- Verification, testing, and debugging techniques
 - Virtualization schemes for specialized & reconfigurable hardware
 
 LATTE solicits short position papers that need not fit the mold of a traditional publication:
@@ -23,8 +23,6 @@ LATTE solicits short position papers that need not fit the mold of a traditional
 - Retrospectives on past efforts on tools, languages, and techniques for accelerator design
 - Calls for solutions to open challenges in the area (questions without answers)
 - Demonstrations of real systems (to be shown off in a live demo at the workshop)
-
-**TODO**: I like the idea of reviewed talks from WAX. Steal it?
 
 ### How to Participate
 
