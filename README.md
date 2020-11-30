@@ -43,7 +43,7 @@ The accepted papers will not be published in a proceeding—PDFs will instead ap
 
 #### Discussion Topics
 
-The WAX program will feature a debate among the attendees. We need your help building a list of controversial topics to serve as grist for the discussion mill.
+The LATTE program will feature a debate among the attendees. We need your help building a list of controversial topics to serve as grist for the discussion mill.
 
 Please submit a sentence or two about an open problem, philosophical question, or other thought you'd like to see discussed at the workshop. You can submit as many of these as you like. We'll use these suggestions to set up a debate during the workshop.
 
