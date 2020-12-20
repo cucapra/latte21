@@ -11,7 +11,7 @@ Submit your **2-page position paper** [via HotCRP][hotcrp]. Important dates:
 
 - Paper submission: **TBD**
 - Author Notification: **TBD**
-- Workshop: **TBD**
+- Workshop: April 15th, 2021
 
 
 ## Call for Participation
