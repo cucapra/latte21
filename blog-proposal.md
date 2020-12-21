@@ -17,3 +17,5 @@ I have published two of the aforementioned papers in the area (Dahlia and Calyx)
 Previous writing for broad audiences:
 - Compiling for the Reconfigurable Future: https://rachitnigam.com/post/reconf-future/
 
+If possible, I would like the blog post to be cross-published with the SIGARCH
+blog: https://www.sigarch.org/blog/
