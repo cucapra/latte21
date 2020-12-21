@@ -9,7 +9,8 @@ serve:
 
 # Deployment.
 RSYNCARGS := --compress --recursive --checksum --itemize-changes \
-	--delete -e ssh --perms --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r
+	--delete -e ssh --perms --chmod=Du=rwx,Dgo=rx,Fu=rw,Fog=r \
+	--exclude=.DS_Store
 DEST := courses:coursewww/capra.cs.cornell.edu/htdocs/latte20
 deploy: site
 	rsync $(RSYNCARGS) ./web/public/ $(DEST)
