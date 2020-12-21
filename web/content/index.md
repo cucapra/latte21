@@ -9,9 +9,9 @@ techniques to generate hardware accelerators.
 
 Submit your **2-page position paper** [via HotCRP][hotcrp]. Important dates:
 
-- Paper submission: February 25, 2021 (tentatively)
-- Author Notification: March 18, 2021
-- Workshop: April 15, 2021
+- Paper submission: **February 25, 2021** (tentatively)
+- Author Notification: **March 18, 2021**
+- Workshop: **April 15, 2021**
 
 
 ## Call for Participation
@@ -58,8 +58,6 @@ Please submit a sentence or two about an open problem, philosophical question, o
 Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 ### Program Committee
-
-The program chairs for LATTE ’21 are **XXX**.
 
 - Thomas Bourgeat, MIT
 - Ross Daly, Stanford
