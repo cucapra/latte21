@@ -77,8 +77,8 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 LATTE ’21 is organized by
 
-- [Rachit Nigam](rachitnigam.com), Cornell University
-- [Adrian Sampson](adriansampson.net), Cornell University
+- [Rachit Nigam](https://rachitnigam.com), Cornell University
+- [Adrian Sampson](http://adriansampson.net), Cornell University
 - Stephen Neuendorffer, Xilinx
 - [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/), Cornell University
 
