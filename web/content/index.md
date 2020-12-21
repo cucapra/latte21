@@ -2,16 +2,16 @@
 template = "index.html"
 +++
 
-LATTE is a workshop on applying programming languages and compilers techniques
-to generate hardware accelerators.
+LATTE is an [ASPLOS][] workshop on applying programming languages and compilers
+techniques to generate hardware accelerators.
 
 ## Important Stuff
 
 Submit your **2-page position paper** [via HotCRP][hotcrp]. Important dates:
 
-- Paper submission: **TBD**
-- Author Notification: **TBD**
-- Workshop: April 15th, 2021
+- Paper submission: February 25, 2021 (tentatively)
+- Author Notification: March 18, 2021
+- Workshop: April 15, 2021
 
 
 ## Call for Participation
@@ -88,3 +88,4 @@ LATTE ’21 is organized by
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
 [hotcrp]: http://example.com/TK
+[asplos]: https://asplos-conference.org
