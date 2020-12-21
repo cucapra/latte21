@@ -82,7 +82,7 @@ LATTE ’21 is organized by
 - [Zhiru Zhang](https://www.csl.cornell.edu/~zhiruz/), Cornell University
 
 
-[topics]: https://github.com/cucapra/latte2020/wiki/Discussion-Topics
+[topics]: https://github.com/cucapra/latte20/wiki/Discussion-Topics
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
 [hotcrp]: http://example.com/TK
