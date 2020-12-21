@@ -124,3 +124,10 @@ a:focus, a:hover {
 table {
   margin: auto;
 }
+
+footer {
+  color: #aaa;
+}
+footer a {
+  color: #aaa;
+}
