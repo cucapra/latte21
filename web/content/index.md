@@ -67,7 +67,7 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 - Lana Josipović, EPFL
 - Vinod Kathail, Xilinx
 - Chris Leary, Google
-- Theirry Moreau, OctoML
+- Thierry Moreau, OctoML
 - Clément Pit-Claudel, MIT
 - Jose Renau, UCSC
 - Hongbo Rong, Intel
