@@ -62,6 +62,7 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 - Thomas Bourgeat, MIT
 - Ross Daly, Stanford
+- [David Durst](https://davidbdurst.com/), Stanford
 - Tobias Grosser, ETH Zürich
 - Shunning Jiang, Cornell
 - Lana Josipović, EPFL
