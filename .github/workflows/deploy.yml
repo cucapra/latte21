@@ -1,4 +1,4 @@
-name: Hugo deploy
+name: Zola deploy
 
 on: [push]
 
