@@ -69,7 +69,7 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 - Vinod Kathail, Xilinx
 - Chris Leary, Google
 - Thierry Moreau, OctoML
-- Clément Pit-Claudel, MIT
+- [Clément Pit-Claudel](https://pit-claudel.fr/clement/), MIT
 - Jose Renau, UCSC
 - Hongbo Rong, Intel
 - John Wickerson, ICL
