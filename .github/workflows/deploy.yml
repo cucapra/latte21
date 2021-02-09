@@ -1,0 +1,43 @@
+name: Hugo deploy
+
+on: [push]
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Install and Run Zola
+        run: |
+          sudo snap install --edge zola
+          zola --root web/ build
+
+      - name: rsync
+        env:
+          DEPLOY_HOST: ${{ secrets.DEPLOY_HOST }}
+          DEPLOY_PORT: ${{ secrets.DEPLOY_PORT }}
+          DEPLOY_USER: ${{ secrets.DEPLOY_USER }}
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
+          DEPLOY_KNOWN_HOSTS: ${{ secrets.DEPLOY_KNOWN_HOSTS }}
+          DEPLOY_SRC: ./web/public/
+          DEPLOY_DEST: sync/latte21-www
+          DEPLOY_2_HOST: courses.cit.cornell.edu
+          DEPLOY_2_DEST: coursewww/capra.cs.cornell.edu/htdocs/calyx
+        run: |
+          echo "$DEPLOY_KEY" > pk
+          echo "$DEPLOY_KNOWN_HOSTS" > kh
+          chmod 600 pk
+          echo "========STAGE 1 SYNC: CAPRA==========="
+          rsync --compress --recursive --checksum --itemize-changes --delete \
+            -e "ssh -p \"$DEPLOY_PORT\" -i pk -o 'UserKnownHostsFile kh'" \
+            $DEPLOY_SRC $DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_DEST
+          echo "========STAGE 2 SYNC: COURSES==========="
+          ssh -p $DEPLOY_PORT -i pk -o 'UserKnownHostsFile kh' \
+            $DEPLOY_USER@$DEPLOY_HOST \
+            rsync --compress --recursive --checksum --itemize-changes \
+            --delete -e ssh --no-perms \
+            $DEPLOY_DEST/ $DEPLOY_2_HOST:$DEPLOY_2_DEST
