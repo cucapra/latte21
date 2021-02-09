@@ -7,9 +7,9 @@ techniques to generate hardware accelerators.
 
 ## Important Stuff
 
-Submit your **2-page position paper** via HotCRP. Important dates:
+Submit your **2-page position paper** via [HotCRP][]. Important dates:
 
-- HotCRP opens: **February 18, 2021** (tentatively)
+- [HotCRP][] opens: **February 18, 2021** (tentatively)
 - Paper submission: **February 25, 2021** (tentatively)
 - Author Notification: **March 18, 2021**
 - Workshop: **April 15, 2021**
@@ -47,7 +47,7 @@ Position paper submissions will undergo peer review by a program committee of in
 
 Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 
-Paper submission will is via HotCRP.
+Paper submission will is via [HotCRP][].
 The accepted papers will not be published in a proceeding—PDFs will instead appear on the workshop's website.
 
 ### Discussion Topics
@@ -87,5 +87,5 @@ LATTE ’21 is organized by
 [topics]: https://github.com/cucapra/latte20/edit/main/discussion.md
 [snapl]: http://cs.brown.edu/~sk/Memos/Conference-Discussion-Format/
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
-[hotcrp]: http://example.com/TK
+[hotcrp]: https://latte.cs.cornell.edu/
 [asplos]: https://asplos-conference.org
