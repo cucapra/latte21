@@ -9,10 +9,14 @@ techniques to generate hardware accelerators.
 
 Submit your **2-page position paper** via [HotCRP][]. Important dates:
 
-- [HotCRP][] opens: **February 18, 2021** (tentatively)
-- Paper submission: **February 25, 2021** (tentatively)
+- [HotCRP][] opens: **February 17, 2021**
+- Paper submission: **February 25, 2021**
 - Author Notification: **March 18, 2021**
 - Workshop: **April 15, 2021**
+
+## News
+
+- Read [Rachit's blog post][pl-blog] summarizing the work in this area and advertising the workshop.
 
 
 ## Call for Participation
@@ -89,3 +93,4 @@ LATTE ’21 is organized by
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
 [hotcrp]: https://latte.cs.cornell.edu/
 [asplos]: https://asplos-conference.org
+[pl-blog]: https://blog.sigplan.org/2021/02/17/languages-tools-and-techniques-for-accelerator-design/
