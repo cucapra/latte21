@@ -17,6 +17,7 @@ Submit your **2-page position paper** via [HotCRP][]. Important dates:
 ## News
 
 - Read [Rachit's blog post][pl-blog] summarizing the work in this area and advertising the workshop.
+- [Yakun Sophia Shao][sophia] (UC Berkeley) and [Sharad Malik][sharad] (Princeton) will be giving invited talks at LATTE.
 
 
 ## Call for Participation
@@ -94,3 +95,5 @@ LATTE ’21 is organized by
 [hotcrp]: https://latte.cs.cornell.edu/
 [asplos]: https://asplos-conference.org
 [pl-blog]: https://blog.sigplan.org/2021/02/17/languages-tools-and-techniques-for-accelerator-design/
+[sophia]: https://people.eecs.berkeley.edu/~ysshao/index.html
+[sharad]: https://www.princeton.edu/~sharad/
