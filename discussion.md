@@ -5,3 +5,7 @@ Please add topics/questions you'd like to have discussed during the workshop.
   - Compilation times (What does `-O0` compilation look like?)
 
 - Interface design and integration into larger Systems-on-Chip.
+
+- Status and future of C based HLS tools
+  - What is preventing wider adoption?
+  - Are there any success areas?
