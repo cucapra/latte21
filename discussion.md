@@ -9,3 +9,4 @@ Please add topics/questions you'd like to have discussed during the workshop.
 - Status and future of C based HLS tools
   - What is preventing wider adoption?
   - Are there any success areas?
+  - Is C the right abstraction for HLS tools?
