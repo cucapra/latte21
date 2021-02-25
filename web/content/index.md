@@ -10,7 +10,7 @@ techniques to generate hardware accelerators.
 Submit your **2-page position paper** via [HotCRP][]. Important dates:
 
 - [HotCRP][] opens: **February 17, 2021**
-- Paper submission: **February 25, 2021**
+- Paper submission: **February 25, 2021 (11:59pm AOE)**
 - Author Notification: **March 18, 2021**
 - Workshop: **April 15, 2021**
 
