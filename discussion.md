@@ -10,3 +10,5 @@ Please add topics/questions you'd like to have discussed during the workshop.
   - What is preventing wider adoption?
   - Are there any success areas?
   - Is C the right abstraction for HLS tools?
+
+- Discussion on the open-source LLVM front-end of Vitis HLS tool. 
