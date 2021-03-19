@@ -7,7 +7,7 @@ Instruction-Level Abstraction for the Specification and Verification of Accelera
 Improving HLS with Shared Accelerators: A Retrospective,Parnian Mokri and Mark Hempstead (Tufts University)
 Elastic Silicon Interconnects: Abstracting Communication in Accelerator Design,John Demme (Microsoft)
 Compiler Infrastructure for Specializing Domain-Specific Memory Templates,Stephanie Soldavini and Christian Pilato (Politecnico di Milano)
-Meta-level issues in Offloading: Scoping, Composition
+"Meta-level issues in Offloading: Scoping, Composition, Development, and their Automation","Andre DeHon, Hans Giesen, Nik Sultana, and Yuanlong Xiao (University of Pennsylvania)"
 Enabling Cross-Domain Communication: How to Bridge the Gap between AI and HW Engineers,"Michael J. Klaiber, Axel J. Acosta, Ingo Feldner, and Falk Rehm (Robert Bosch GmbH)"
 Building Beyond HLS: Graph Analytics and Others,"Pedro Filipe Silva (Faculty of Engineering, University of Porto); João Bispo and Nuno Paulino (INESC-TEC and Faculty of Engineering, University of Porto)"
 Compile-Time RTL Interpreters,Sahand Kashani and James R. Larus (EPFL)
