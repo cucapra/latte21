@@ -1,0 +1,24 @@
+Title,Authors
+Phism: Polyhedral High-Level Synthesis in MLIR,Ruizhe Zhao and Jianyi Cheng (Imperial College London)
+High-Level Synthesis Tools Should be Proven Correct,Yann Herklotz and John Wickerson (Imperial College London)
+Registerless Hardware Description,Oron Port and Yoav Etsion (Technion - Israel Institute of Technology)
+ScaleHLS: Achieving Scalable High-Level Synthesis through MLIR,"Hanchen Ye (University of Illinois at Urbana-Champaign); Cong Hao (Georgia Institute of Technology); Hyunmin Jeong, Jack Huang, and Deming Chen (University of Illinois at Urbana-Champaign)"
+Instruction-Level Abstraction for the Specification and Verification of Accelerator-rich Architectures,"Hongce Zhang, Bo-Yuan Huang, Yue Xing, Aarti Gupta, and Sharad Malik (Princeton University)"
+Improving HLS with Shared Accelerators: A Retrospective,Parnian Mokri and Mark Hempstead (Tufts University)
+Elastic Silicon Interconnects: Abstracting Communication in Accelerator Design,John Demme (Microsoft)
+Compiler Infrastructure for Specializing Domain-Specific Memory Templates,Stephanie Soldavini and Christian Pilato (Politecnico di Milano)
+Meta-level issues in Offloading: Scoping, Composition
+Enabling Cross-Domain Communication: How to Bridge the Gap between AI and HW Engineers,"Michael J. Klaiber, Axel J. Acosta, Ingo Feldner, and Falk Rehm (Robert Bosch GmbH)"
+Building Beyond HLS: Graph Analytics and Others,"Pedro Filipe Silva (Faculty of Engineering, University of Porto); João Bispo and Nuno Paulino (INESC-TEC and Faculty of Engineering, University of Porto)"
+Compile-Time RTL Interpreters,Sahand Kashani and James R. Larus (EPFL)
+The Enzian Coherent Interconnect (ECI): Opening a coherence protocol to research and applications,"Abishek Ramdas, David Cock, Timothy Roscoe, and Gustavo Alonso (ETH Zurich)"
+What are the Semantics of Hardware?,Gilbert Bernstein (Berkeley); Ross Daly (Stanford); Jonathon Ragan-Kelly (MIT); Pat Hanrahan (Stanford)
+Towards Higher-Level Synthesis and Co-design,Alexandre Quenon and Vitor Ramos Gomes da Silva (University of Mons)
+Application specific dataflow machine construction for programming FPGAs via Lucent,Nick Brown (EPCC at the University of Edinburgh)
+A Position on Transparent Reconfigurable Systems,"Luís Sousa (Faculty of Engineering, University of Porto); Nuno Paulino and João Canas Ferreira (INESC-TEC and Faculty of Engineering, University of Porto)"
+Single-Source Hardware-Software Codesign,"Blaise Tine, Hyesoon Kim, and Sudhakar Yalamanchili (Georgia Institute of Technology)"
+Design Decisions in LiveHD for HDLs Compilation,Sheng-Hong Wang and Jose Renau (University of California - Santa Cruz)
+From DSLs to Accelerator-rich Platform Implementations: Addressing the Mapping Gap,Zachary Tatlock (University of Washington); Sharad Malik and Aarti Gupta (Princeton University); Gu-Yeon Wei (Harvard University); Steven Lyubomirsky (University of Washington); Bo-Yuan Huang (Princeton University); Thierry Tambe (Harvard University); Mike He (University of Washington); Yi Li (Princeton University); Gus Smith (University of Washington)
+Faster Coverage Convergence with Automatic Test ParameterTuning in Constrained Random Verification,"Qijing Huang (Google; UC Berkeley); Hamid Shojaei, Fred Zyda, and Azade Nazi (Google); Shobha Vasudevan (Google; UIUC); Sat Chatterjee and Richard Ho (Google)"
+Generality is the Key Dimension in Accelerator Design,"Tony Nowatzki, Vidushi Dadu, Jian Weng, and Sihao Liu (UCLA)"
+High-Level Synthesis of Security Properties via Software-Level Abstractions,Christian Pilato (Politecnico di Milano); Francesco Regazzoni (Università della Svizzera italiana)

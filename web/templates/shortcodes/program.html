@@ -1,0 +1,19 @@
+<div class="program">
+
+{% set data = load_data(path="content/accepted.csv", format="csv") %}
+
+<ul>
+{% for record in data.records %}
+<li>
+  <span class="paper">
+  {{ record[0] }}
+  </span>
+  <br/>
+  <span class="authors">
+  {{ record[1] }}
+  </span>
+</li>
+{% endfor %}
+</ul>
+
+</div>

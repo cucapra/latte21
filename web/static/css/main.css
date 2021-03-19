@@ -134,3 +134,25 @@ header img.logo {
     margin-left: 1em;
 }
 
+.paper {
+  font-weight: 600;
+}
+.authors {
+  font-weight: 400;
+  font-size: 0.9em;
+  color: #777;
+}
+
+.program li {
+  margin-bottom: 0.5em;
+}
+
+@media screen and (min-width: 800px) {
+  .committee {
+    display: flex;
+    flex: auto;
+  }
+  .committee .organization {
+    margin-left: 5em;
+  }
+}
