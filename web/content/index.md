@@ -25,7 +25,7 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 ## Program
 
 The LATTE 21 program will feature the following 23 papers.
-The current plan is to group papers based on their theme and discussion
+The current plan is to group papers based on their theme and discuss
 them using [SNAPL][]'s round-table discussion format.
 
 More details about the talk format and links to camera-ready version of
