@@ -91,7 +91,7 @@ hr {
 }
 
 h1, h2, h3,
-p > strong {
+p > strong, .paper strong {
   color: #98694F
 }
 
@@ -134,9 +134,6 @@ header img.logo {
     margin-left: 1em;
 }
 
-.paper {
-  font-weight: 600;
-}
 .authors {
   font-weight: 400;
   font-size: 0.9em;
