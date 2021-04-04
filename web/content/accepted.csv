@@ -13,7 +13,7 @@ Building Beyond HLS: Graph Analytics and Others,"Pedro Filipe Silva (Faculty of 
 Compile-Time RTL Interpreters,Sahand Kashani and James R. Larus (EPFL)
 The Enzian Coherent Interconnect (ECI): Opening a coherence protocol to research and applications,"Abishek Ramdas, David Cock, Timothy Roscoe, and Gustavo Alonso (ETH Zurich)"
 What are the Semantics of Hardware?,Gilbert Bernstein (Berkeley); Ross Daly (Stanford); Jonathan Ragan-Kelley (MIT); Pat Hanrahan (Stanford)
-Towards Higher-Level Synthesis and Co-design,Alexandre Quenon and Vitor Ramos Gomes da Silva (University of Mons)
+Towards Higher-Level Synthesis and Co-design with Python,Alexandre Quenon and Vitor Ramos Gomes da Silva (University of Mons)
 Application specific dataflow machine construction for programming FPGAs via Lucent,Nick Brown (EPCC at the University of Edinburgh)
 A Position on Transparent Reconfigurable Systems,"Luís Sousa (Faculty of Engineering, University of Porto); Nuno Paulino and João Canas Ferreira (INESC-TEC and Faculty of Engineering, University of Porto)"
 Single-Source Hardware-Software Codesign,"Blaise Tine, Hyesoon Kim, and Sudhakar Yalamanchili (Georgia Institute of Technology)"
