@@ -3,7 +3,7 @@ Phism: Polyhedral High-Level Synthesis in MLIR,Ruizhe Zhao and Jianyi Cheng (Imp
 High-Level Synthesis Tools Should be Proven Correct,Yann Herklotz and John Wickerson (Imperial College London)
 Registerless Hardware Description,Oron Port and Yoav Etsion (Technion - Israel Institute of Technology)
 ScaleHLS: Achieving Scalable High-Level Synthesis through MLIR,"Hanchen Ye (University of Illinois at Urbana-Champaign); Cong Hao (Georgia Institute of Technology); Hyunmin Jeong, Jack Huang, and Deming Chen (University of Illinois at Urbana-Champaign)"
-Instruction-Level Abstraction for the Specification and Verification of Accelerator-rich Architectures,"Hongce Zhang, Bo-Yuan Huang, Yue Xing, Aarti Gupta, and Sharad Malik (Princeton University)"
+Hardware-Software Interface Specification for Verification in Accelerator-Rich Platforms,"Hongce Zhang, Bo-Yuan Huang, Yue Xing, Aarti Gupta, and Sharad Malik (Princeton University)"
 Improving HLS with Shared Accelerators: A Retrospective,Parnian Mokri and Mark Hempstead (Tufts University)
 Elastic Silicon Interconnects: Abstracting Communication in Accelerator Design,John Demme (Microsoft)
 Compiler Infrastructure for Specializing Domain-Specific Memory Templates,Stephanie Soldavini and Christian Pilato (Politecnico di Milano)
