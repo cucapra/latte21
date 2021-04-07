@@ -6,11 +6,14 @@
 {% for record in data.records %}
 <li>
   <span class="paper">
-  <strong>{{ record[0] }}</strong>
+
+  <a href="{{ get_url(path="paper/" ~ record[0] ~ ".pdf") }}">
+  <strong>{{ record[1] }}</strong>
+  </a>
   </span>
   <br/>
   <span class="authors">
-  {{ record[1] }}
+  {{ record[2] }}
   </span>
 </li>
 {% endfor %}
