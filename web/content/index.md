@@ -42,7 +42,7 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 ## Keynotes
 
 - **[Sharad Malik][sharad]**: [Hardware-Software Interface Specification for Verification in Accelerator-Rich Platforms][sharad-position]
-- **[Yakun Sophia Shao][sophia]**: TBD
+- **[Yakun Sophia Shao][sophia]**: Efficient and Productive: Holistic Approach to Accelerator Design, Integration, and Scheduling
 
 ## Accepted Papers
 
