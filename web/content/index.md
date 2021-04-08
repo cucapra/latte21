@@ -8,6 +8,7 @@ The workshop will take place on **April 15, 2021** and will feature 23 papers
 along with 2 keynote presentations.
 The [call for participation](./cfp) has been archived.
 Read [Rachit's blog post][pl-blog] summarizing the work in this area and advertising the workshop.
+Please register for it through the [ASPLOS registration website][asplos-registration].
 
 ## Program
 
@@ -100,3 +101,4 @@ paper as well as the [Github discussion][github-thread] for each paper.
 [sharad]: https://www.princeton.edu/~sharad/
 [github-thread]: https://github.com/cucapra/latte21/discussions/categories/papers
 [sharad-position]: /paper/6.pdf
+[asplos-registration]: https://web.cvent.com/event/6259afee-6594-4456-86a0-2a22fbfc47b8/summary
