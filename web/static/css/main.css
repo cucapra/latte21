@@ -95,6 +95,32 @@ p > strong, .paper strong {
   color: #98694F
 }
 
+.paper-links {
+  margin-top: .3em;
+  margin-bottom: .8em;
+}
+
+.button a {
+  text-decoration: none;
+  border: 1px #98694F solid;
+  margin-right: 0.5em;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.4em;
+  padding-right: 0.4em;
+  border-radius: 0.2rem;
+  font-size: 0.92em;
+}
+
+.button:hover a, .button:focus a {
+  border: 1px #98694F solid;
+  background: #98694F;
+  color: #fff;
+  transition-property: background;
+  transition-duration: .2s;
+  text-decoration: none;
+}
+
 .subtitle {
   margin-top: 0;
   color: #777;

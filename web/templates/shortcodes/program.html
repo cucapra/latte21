@@ -5,16 +5,33 @@
 <ul>
 {% for record in data.records %}
 <li>
-  <span class="paper">
-
+  <div class="paper-info">
+  <div class="paper">
   <a href="{{ get_url(path="paper/" ~ record[0] ~ ".pdf") }}">
   <strong>{{ record[1] }}</strong>
   </a>
-  </span>
-  <br/>
-  <span class="authors">
+  </div>
+  <div class="authors">
   {{ record[2] }}
+  </div>
+  </div>
+
+  <div class="paper-links">
+  <!-- Link to github discussion -->
+  {% if record[3] %}
+  <span class="gh-thread button">
+  <a href="{{ record[3] }}">Thread</a>
   </span>
+  {% endif %}
+
+  <!-- Link to github discussion -->
+  {% if record[4] %}
+  <span class="yt button">
+  <a href="{{ record[4] }}">Talk</a>
+  </span>
+  {% endif %}
+
+  </div>
 </li>
 {% endfor %}
 </ul>
