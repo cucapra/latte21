@@ -95,6 +95,10 @@ p > strong, .paper strong {
   color: #98694F
 }
 
+ul.session {
+  margin-top: 0.3em;
+}
+
 .paper-links {
   margin-top: .3em;
   margin-bottom: .8em;

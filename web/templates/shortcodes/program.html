@@ -2,8 +2,12 @@
 
 {% set data = load_data(path="content/accepted.csv", format="csv") %}
 
-<ul>
-{% for record in data.records %}
+{% set sessions = data.records | map(attribute="5") | unique | sort %}
+
+{% for session in sessions %}
+<h3>{{ session }}</h3>
+<ul class="session">
+{% for record in data.records | filter(attribute="5", value=session) %}
 <li>
   <div class="paper-info">
   <div class="paper">
@@ -35,5 +39,7 @@
 </li>
 {% endfor %}
 </ul>
+{% endfor %}
+
 
 </div>

@@ -49,10 +49,12 @@ Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
 The LATTE 21 program will feature the following 23 papers and will be discussed
 using [SNAPL][]'s round-table discussion format.
+Papers are grouped based on a theme.
+Each session will start with all papers of a theme and follow with the
+discussions.
 The camera-ready version for each paper is linked here.
 A few days before the workshop, we will link the prerecorded talks for each
 paper as well as the [Github discussion][github-thread] for each paper.
-
 
 {{ program() }}
 
