@@ -91,7 +91,7 @@ hr {
 }
 
 h1, h2, h3,
-p > strong, .paper strong {
+p > strong, .paper strong, td a, td a:hover, td a:focus {
   color: #98694F
 }
 
@@ -206,7 +206,7 @@ thead {
 }
 
 /* Table Striped */
-table > tbody > tr:nth-child(odd) > td,
-table > tbody > tr:nth-child(odd) > th {
-  background-color: #e0d2ca;
-}
+/*table > tbody > tr:nth-child(odd) > td,*/
+/*table > tbody > tr:nth-child(odd) > th {*/
+  /*background-color: #e0d2ca;*/
+/*}*/

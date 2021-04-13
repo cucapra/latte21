@@ -29,20 +29,20 @@ during and (hopefully) after the workshop!
 | Time (EST) | Event |
 |-------------|-------|
 | 10am - 10.15am | Opening & Introductions |
-| 10.15am - 11am | Keynote - Sharad Malik |
-| 11am - 11.30am | Formal |
-| 11.30am - 12pm| Language Design |
+| 10.15am - 11am | [Keynote - Sharad Malik][sharad-position] |
+| 11am - 11.30am | [Session 1 - Formal](#formal) |
+| 11.30am - 12pm| [Session 2 - Language Design](#language-design) |
 | 12pm - 12.15pm|Break |
-| 12.15pm - 12.45pm| HDL |
-| 12.45pm - 1.15pm| Interconnect & Memory |
+| 12.15pm - 12.45pm| [Session 3 - HDL](#hdl) |
+| 12.45pm - 1.15pm| [Session 4 - Interconnect & Memory](#interconnect-memory) |
 | 1.15pm - 2.00pm| Lunch Break |
 | 2.00pm - 2.30pm|Topic Discussion |
-| 2.30pm - 3.00pm| Integration|
+| 2.30pm - 3.00pm| [Session 5 - Integration](#integration) |
 | 3.00pm - 3.45pm|Keynote - Sophia Yakun Shao |
-| 3.45pm - 4.00pm| HLS |
+| 3.45pm - 4.00pm| [Session 6 - HLS](#hls) |
 | 4.00pm - 4.15pm|Break |
-| 4.15pm - 4.45pm| Industrial & Application |
-| 4.45pm - 5.15pm| Abstractions |
+| 4.15pm - 4.45pm| [Session 7 - Industrial & Applications](#industrial-applications) |
+| 4.45pm - 5.15pm| [Session 8 - Abstractions](#abstractions) |
 | 5.15pm - 5.45pm|Closing Discussion |
 
 ## Discussion Topics
