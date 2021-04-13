@@ -154,7 +154,7 @@ table {
 footer {
   color: #aaa;
 }
-footer a {
+footer a, footer a:hover, footer a:focus {
   color: #aaa;
 }
 
