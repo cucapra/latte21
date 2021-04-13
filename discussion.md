@@ -19,3 +19,8 @@ Please add topics/questions you'd like to have discussed during the workshop.
   - Will "harder" concepts such as multi-FPGA, FPGA networking, and near-memory gain traction?
  
  - FPGA overlays and encapsulating hardware programmability for software developers.
+
+ - For languages that generate verilog, what are the challenges involved in taking output from
+   EDA tools and putting it back into the context of the original language.
+   - How should failing timing paths be presented?
+   - What should waveforms looks like?
