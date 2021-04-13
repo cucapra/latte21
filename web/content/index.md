@@ -26,6 +26,25 @@ thread][github-thread].
 Authors will be subscribed to the thread for their paper and will answer questions
 during and (hopefully) after the workshop!
 
+| Time (EST) | Event |
+|-------------|-------|
+| 10am - 10.15am | Opening & Introductions |
+| 10.15am - 11am | Keynote - Sharad Malik |
+| 11am - 11.30am | Formal |
+| 11.30am - 12pm| Language Design |
+| 12pm - 12.15pm|Break |
+| 12.15pm - 12.45pm| HDL |
+| 12.45pm - 1.15pm| Interconnect & Memory |
+| 1.15pm - 2.00pm| Lunch Break |
+| 2.00pm - 2.30pm|Topic Discussion |
+| 2.30pm - 3.00pm| Integration|
+| 3.00pm - 3.45pm|Keynote - Sophia Yakun Shao |
+| 3.45pm - 4.00pm| HLS |
+| 4.00pm - 4.15pm|Break |
+| 4.15pm - 4.45pm| Industrial & Application |
+| 4.45pm - 5.15pm| Abstractions |
+| 5.15pm - 5.45pm|Closing Discussion |
+
 ## Discussion Topics
 
 We will have 1-2 short discussion sessions that will feature a debate
