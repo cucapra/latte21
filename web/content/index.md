@@ -121,5 +121,5 @@ paper as well as the [Github discussion][github-thread] for each paper.
 [sophia]: https://people.eecs.berkeley.edu/~ysshao/index.html
 [sharad]: https://www.princeton.edu/~sharad/
 [github-thread]: https://github.com/cucapra/latte21/discussions/categories/papers
-[sharad-position]: /paper/6.pdf
+[sharad-position]: paper/6.pdf
 [asplos-registration]: https://web.cvent.com/event/6259afee-6594-4456-86a0-2a22fbfc47b8/summary
