@@ -39,11 +39,11 @@ during and (hopefully) after the workshop!
 | 2.00pm - 2.30pm|Topic Discussion |
 | 2.30pm - 3.00pm| [Session 5 - Integration](#integration) |
 | 3.00pm - 3.45pm|Keynote - Sophia Yakun Shao |
-| 3.45pm - 4.00pm| [Session 6 - HLS](#hls) |
-| 4.00pm - 4.15pm|Break |
-| 4.15pm - 4.45pm| [Session 7 - Industrial & Applications](#industrial-applications) |
-| 4.45pm - 5.15pm| [Session 8 - Abstractions](#abstractions) |
-| 5.15pm - 5.45pm|Closing Discussion |
+| 3.45pm - 4.15pm| [Session 6 - HLS](#hls) |
+| 4.15pm - 4.30pm|Break |
+| 4.30pm - 5pm| [Session 7 - Industrial & Applications](#industrial-applications) |
+| 5pm - 5.30| [Session 8 - Abstractions](#abstractions) |
+| 5.30pm - 6pm|Closing Discussion |
 
 ## Discussion Topics
 
@@ -121,5 +121,5 @@ paper as well as the [Github discussion][github-thread] for each paper.
 [sophia]: https://people.eecs.berkeley.edu/~ysshao/index.html
 [sharad]: https://www.princeton.edu/~sharad/
 [github-thread]: https://github.com/cucapra/latte21/discussions/categories/papers
-[sharad-position]: paper/6.pdf
+[sharad-position]: //paper/6.pdf
 [asplos-registration]: https://web.cvent.com/event/6259afee-6594-4456-86a0-2a22fbfc47b8/summary
