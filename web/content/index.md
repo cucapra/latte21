@@ -2,6 +2,11 @@
 template = "index.html"
 +++
 
+**LATTE '21 has concluded.**
+Please feel free to participate in the [discussion threads][github-thread] for
+the various papers and other topics.
+Hope to see you next year!
+
 LATTE is an [ASPLOS][] workshop on applying programming languages and compilers
 techniques to generate hardware accelerators.
 The workshop will take place on **April 15, 2021** and will feature 23 papers
